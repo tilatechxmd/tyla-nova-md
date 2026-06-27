@@ -1,0 +1,280 @@
+╔══════════════════════════════╗
+║       🚀 TYLA NOVA TECH      ║
+║   Next-Generation WhatsApp   ║
+║        Multi-Device Bot      ║
+╚══════════════════════════════╝
+
+╭─❖ 「 ⚙️ SYSTEM 」
+│ .ping
+│ .alive
+│ .menu
+│ .help
+│ .runtime
+│ .uptime
+│ .speed
+│ .status
+│ .owner
+│ .script
+│ .version
+│ .info
+│ .about
+│ .support
+│ .donate
+│ .report
+│ .bug
+│ .feedback
+│ .update
+│ .changelog
+│ Aliases: .p .bot .check .run ...
+╰────────────────────
+
+╭─❖ 「 👥 GROUP 」
+│ .link
+│ .revoke
+│ .kick
+│ .add
+│ .promote
+│ .demote
+│ .tagall
+│ .hidetag
+│ .admins
+│ .group open
+│ .group close
+│ .setname
+│ .setdesc
+│ .mute
+│ .unmute
+│ .warn
+│ .unwarn
+│ .warnings
+│ .resetwarn
+│ .ban
+│ Variants: .kick2 .banuser .softban ...
+╰────────────────────
+
+╭─❖ 「 🛡️ SECURITY 」
+│ .antilink
+│ .antispam
+│ .antitag
+│ .antibot
+│ .antiword
+│ .antifake
+│ .antiflood
+│ .antiraid
+│ .antinsfw
+│ .antidelete
+│ .captcha
+│ .verify
+│ .unverify
+│ .lock
+│ .unlock
+│ Toggle Levels:
+│ .antilink1 - .antilink10
+╰────────────────────
+
+╭─❖ 「 📥 DOWNLOAD 」
+│ .play
+│ .ytmp3
+│ .ytmp4
+│ .video
+│ .audio
+│ .tiktok
+│ .instagram
+│ .facebook
+│ .twitter
+│ .spotify
+│ .soundcloud
+│ .mediafire
+│ .apk
+│ .gdrive
+│ .pinterest
+│ Formats:
+│ .yt144 - .yt1080
+│ .mp3-128 - .mp3-320
+╰────────────────────
+
+╭─❖ 「 🎨 MEDIA & STICKERS 」
+│ .sticker
+│ .s
+│ .take
+│ .wm
+│ .toimg
+│ .tomp3
+│ .tovn
+│ .togif
+│ .tourl
+│ .tts
+│ .attp
+│ .qc
+│ .emojimix
+│ .trigger
+│ .smeme
+│ Effects:
+│ .blur
+│ .invert
+│ .pixel
+╰────────────────────
+
+╭─❖ 「 🤖 AI SYSTEM 」
+│ .ai
+│ .gpt
+│ .chat
+│ .ask
+│ .imagine
+│ .image
+│ .code
+│ .fixcode
+│ .explain
+│ .translateai
+│ .essay
+│ .story
+│ .poem
+│ .summary
+│ .rewrite
+│ Modes:
+│ .ai-pro
+│ .ai-fast
+│ .ai-lite
+╰────────────────────
+
+╭─❖ 「 🔍 SEARCH 」
+│ .google
+│ .wiki
+│ .youtube
+│ .lyrics
+│ .news
+│ .weather
+│ .github
+│ .npm
+│ .appstore
+│ .define
+│ .translate
+│ .currency
+│ Filters:
+│ .img
+│ .vid
+│ .map
+│ .book
+╰────────────────────
+
+╭─❖ 「 😂 FUN 」
+│ .joke
+│ .meme
+│ .truth
+│ .dare
+│ .roast
+│ .compliment
+│ .pickup
+│ .ship
+│ .love
+│ .8ball
+│ .fact
+│ .quote
+│ .darkjoke
+│ .rate
+│ .simp
+│ Variations:
+│ .rate1 - .rate100
+╰────────────────────
+
+╭─❖ 「 🎮 GAMES 」
+│ .tictactoe
+│ .hangman
+│ .guess
+│ .math
+│ .quiz
+│ .riddle
+│ .slot
+│ .dice
+│ .chess
+│ .wordgame
+│ .scramble
+│ .number
+│ Levels:
+│ .quiz1 - .quiz100
+│ .math1 - .math100
+╰────────────────────
+
+╭─❖ 「 💰 ECONOMY 」
+│ .balance
+│ .daily
+│ .weekly
+│ .work
+│ .rob
+│ .deposit
+│ .withdraw
+│ .shop
+│ .buy
+│ .sell
+│ .inventory
+│ .leaderboard
+│ .transfer
+│ .bet
+│ .casino
+│ Items & Upgrades
+╰────────────────────
+
+╭─❖ 「 🧩 UTILITIES 」
+│ .calc
+│ .qr
+│ .readqr
+│ .shortlink
+│ .timer
+│ .reminder
+│ .afk
+│ .timezone
+│ .countdown
+│ .password
+│ .hash
+│ Tool Variations
+╰────────────────────
+
+╭─❖ 「 📱 SOCIAL 」
+│ .profile
+│ .dp
+│ .bio
+│ .stalk
+│ .whois
+│ .contact
+│ Lookup Variations
+╰────────────────────
+
+╭─❖ 「 ❤️ RELATIONSHIP 」
+│ .love
+│ .crush
+│ .marry
+│ .divorce
+│ .date
+│ .compatibility
+│ Percentage Systems
+╰────────────────────
+
+╭─❖ 「 🔞 NSFW (OPTIONAL) 」
+│ .nsfw on
+│ .nsfw off
+│ .waifu
+│ .neko
+│ .hentai
+│ .trap
+│ Categories
+╰────────────────────
+
+╭─❖ 「 🔐 OWNER 」
+│ .block
+│ .unblock
+│ .broadcast
+│ .join
+│ .leave
+│ .setppbot
+│ .setnamebot
+│ .setstatus
+│ .restart
+│ .shutdown
+│ Admin Configurations
+╰────────────────────
+
+╔══════════════════════════════╗
+║      🚀 TYLA NOVA TECH       ║
+║    Next-Generation WhatsApp  ║
+║      Multi-Device Bot        ║
+╚══════════════════════════════╝
