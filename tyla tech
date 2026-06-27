@@ -1,0 +1,108 @@
+╔══════════════════════════════╗
+║        🚀 TYLA NOVA MD       ║
+║   Next-Generation WhatsApp   ║
+║        Multi-Device Bot      ║
+╚══════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+👤 GENERAL COMMANDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+.menu            ➜ Display the main menu
+.help            ➜ Show help information
+.ping            ➜ Check bot response speed
+.alive           ➜ Check whether the bot is online
+.runtime         ➜ Display bot uptime
+.owner           ➜ Show bot owner information
+.script          ➜ Show repository information
+.version         ➜ Display current bot version
+.prefix          ➜ Show current command prefix
+.setprefix       ➜ Change the command prefix
+.botinfo         ➜ Display bot information
+.system          ➜ Show system details
+.status          ➜ Show bot status
+.speed           ➜ Measure response time
+.stats           ➜ Display bot statistics
+.profile         ➜ Show your profile
+.me              ➜ Display your WhatsApp information
+.id              ➜ Get your chat or user ID
+.jid             ➜ Show current JID
+.pp              ➜ View profile picture
+.setpp           ➜ Set bot profile picture
+.removepp        ➜ Remove bot profile picture
+.bio             ➜ Show current bio
+.setbio          ➜ Update bot bio
+.name            ➜ Show bot name
+.setname         ➜ Change bot name
+.invite          ➜ Get support group invite
+.support         ➜ Show support information
+.report          ➜ Report a bug
+.feedback        ➜ Send feedback
+.news            ➜ Show latest updates
+.changelog       ➜ Display recent changes
+.donate          ➜ Support the project
+.credits         ➜ Show developers
+.rules           ➜ Display bot rules
+.privacy         ➜ View privacy policy
+.license         ➜ Show license
+.about           ➜ Learn about TYLA NOVA MD
+.faq             ➜ Frequently asked questions
+.commands        ➜ Show all categories
+.categories      ➜ List command categories
+.features        ➜ Show bot features
+.plugins         ➜ Display installed plugins
+.modules         ➜ Show loaded modules
+.reload          ➜ Reload command cache
+.refresh         ➜ Refresh bot cache
+.updatecheck     ➜ Check for updates
+.language        ➜ Show current language
+.setlang         ➜ Change language
+.time            ➜ Display server time
+.date            ➜ Display current date
+.calendar        ➜ Show calendar
+.weather         ➜ Check weather
+.clock           ➜ Display digital clock
+.echo            ➜ Repeat your message
+.say             ➜ Bot repeats text
+.reverse         ➜ Reverse text
+.upper           ➜ Convert text to uppercase
+.lower           ➜ Convert text to lowercase
+.count           ➜ Count words
+.length          ➜ Count characters
+.random          ➜ Generate random number
+.flip            ➜ Flip a coin
+.roll            ➜ Roll a dice
+.choose          ➜ Random choice
+.password        ➜ Generate password
+.uuid            ➜ Generate UUID
+.hash            ➜ Generate hash
+.shortid         ➜ Create short ID
+.hex             ➜ Convert to hexadecimal
+.binary          ➜ Convert to binary
+.base64          ➜ Encode Base64
+.decode          ➜ Decode Base64
+.qr              ➜ Generate QR code
+.readqr          ➜ Scan QR code
+.emoji           ➜ Find emoji
+.steam           ➜ Decorative text
+.font            ➜ Fancy fonts
+.style           ➜ Stylish text
+.timestamp       ➜ Unix timestamp
+.uptime          ➜ Bot uptime
+.memory          ➜ Memory usage
+.cpu             ➜ CPU information
+.storage         ➜ Storage usage
+.network         ➜ Network status
+.internet        ➜ Internet status
+.host            ➜ Host information
+.platform        ➜ Platform details
+.node            ➜ Node.js version
+.dependencies    ➜ Installed packages
+.restartinfo     ➜ Last restart details
+.log             ➜ Recent logs
+.clean           ➜ Clean temporary files
+.cache           ➜ Cache status
+.resetcache      ➜ Reset cache
+.menu2           ➜ Compact menu
+.menu3           ➜ Extended menu
+.allmenu         ➜ Display every menu
