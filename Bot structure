@@ -1,0 +1,42 @@
+TYLA-NOVA-MD/
+│
+├── index.js                 # Main application entry
+├── package.json             # Dependencies
+├── .env.example             # Environment template
+├── .gitignore
+├── README.md
+├── LICENSE
+├── config.js
+│
+├── telegram/
+│   ├── bot.js               # Telegram bot
+│   ├── commands.js          # Command router
+│   ├── start.js             # /start
+│   ├── pair.js              # /pair
+│   ├── depair.js            # /depair
+│   ├── ping.js              # /ping
+│   ├── help.js              # /help
+│   ├── report.js            # /report
+│   └── middleware.js
+│
+├── whatsapp/
+│   ├── connection.js        # Baileys connection
+│   ├── session.js           # Session manager
+│   ├── handler.js           # Message handler
+│   ├── events.js            # Event listeners
+│   ├── plugins/             # Plugin loader
+│   └── commands/
+│       ├── general/
+│       ├── group/
+│       ├── owner/
+│       ├── ai/
+│       ├── download/
+│       ├── fun/
+│       └── utility/
+│
+├── sessions/                # Generated sessions
+├── database/                # JSON/SQLite data
+├── lib/                     # Shared functions
+├── utils/                   # Utilities
+├── logs/                    # Runtime logs
+└── assets/                  # Images, fonts, media
