@@ -1,0 +1,43 @@
+TYLA NOVA MD
+                    System Architecture
+
+                    GitHub Repository
+                           │
+                           ▼
+                 Node.js + Baileys Core
+                           │
+          ┌────────────────┴────────────────┐
+          │                                 │
+          ▼                                 ▼
+   Telegram Control Panel             WhatsApp Bot
+     (Session Manager)              (Main Features)
+          │                                 │
+          ├── /start                        │
+          ├── /pair <number>                │
+          ├── /depair <number>              │
+          ├── /ping                         │
+          ├── /help                         │
+          └──────────────┐                  │
+                         ▼                  │
+                Generate Pairing Code       │
+                         │                  │
+                         ▼                  │
+               WhatsApp Linked Device ◄────┘
+                         │
+                         ▼
+                Secure Session Storage
+                         │
+                         ▼
+                 WhatsApp Connected
+                         │
+                         ▼
+        Plugin Loader → Command Handler → Features
+                         │
+        ├── Group Management
+        ├── AI Commands
+        ├── Downloader
+        ├── Sticker Tools
+        ├── Games
+        ├── Utilities
+        ├── Owner Commands
+        └── Automation
